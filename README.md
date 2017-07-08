@@ -13,12 +13,14 @@ File extensions recognized:
 - .guitartab
 
 ## Syntax Definitions
-![Syntax Definition](Syntax.PNG)
+![Syntax Definition](images/Syntax.PNG)
 
 ## Example 1
 A regular usage example:
-![Example 1](Example1.PNG)
+
+![Example 1](images/Example1.PNG)
 
 ## Example 2
 Showing various combinations:
-![Example 2](Example2.PNG)
+
+![Example 2](images/Example2.PNG)
