@@ -2,11 +2,13 @@ Guitar Tab Colorizer
 =============
 
 A syntax highlighter for guitar tabs in VSCode.
+
 Uses TextMate language format so migrations to other editors should be possible.
 
 ## Installation
 
 Place the entire 'guitar' folder in `<Your VSCode Install Path>\resources\app\extensions`
+
 File extensions recognized:
 - .tab
 - .guitar
