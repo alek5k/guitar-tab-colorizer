@@ -1,0 +1,19 @@
+{
+	"name": "guitartab",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"languages": [{
+			"id": "guitartab",
+			"extensions": [ ".tab", ".guitar", ".guitartab"],
+			"aliases": [ "Guitar Tab", "guitar tab" ],
+			"configuration": "./language-configuration.json"
+		}],
+		"grammars": [{
+			"language": "guitartab",
+			"scopeName": "source.guitartab",
+			"path": "./syntaxes/guitartab.tmLanguage"
+		}]
+	}
+}
